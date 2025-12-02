@@ -13,14 +13,14 @@ select*from telco_cust_churn;
 
 							-- TELCO CUST CHURN ANALYSIS --
 
--- Statistik deskriptif--
+-- Statistika deskriptif--
 (select 'Count' as ` `,count(tenure) as `Tenure`, count(MonthlyCharges) as `Monthly Charges`, count(TotalCharges) as `Total Charges` from telco_cust_churn)
 union
-(select 'Means' ,avg(tenure), avg(MonthlyCharges), avg(TotalCharges) from telco_cust_churn)
+(select 'Means' ,round(avg(tenure),2), round(avg(MonthlyCharges),2), round(avg(TotalCharges),2) from telco_cust_churn)
 union
-(select 'Min', min(tenure), min(MonthlyCharges), min(TotalCharges) from telco_cust_churn)
+(select 'Min', round(min(tenure),2), round(min(MonthlyCharges),2), round(min(TotalCharges),2) from telco_cust_churn)
 union
-(select 'Max', max(tenure), max(MonthlyCharges), max(TotalCharges) from telco_cust_churn);
+(select 'Max', round(max(tenure),2), round(max(MonthlyCharges),2), round(max(TotalCharges),2) from telco_cust_churn);
 
 -- Churn rate by gender--
 -- Not churn
