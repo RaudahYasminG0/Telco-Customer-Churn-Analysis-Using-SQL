@@ -4,7 +4,8 @@ _**PROFILE INISIGHT**_
 
 
 <img width="368" height="88" alt="image" src="https://github.com/user-attachments/assets/aaeafe70-6c1d-4436-927e-0af8d7120f8b" />
-<img width="368" height="88" alt="image" src="https://github.com/user-attachments/assets/0837b5dc-a3ba-4951-9604-473a7ccd60ae" />
+<img width="229" height="84" alt="image" src="https://github.com/user-attachments/assets/5d3ee9c1-da8a-4088-ab18-e5406b396751" />
+
 
 
 **Gender:**
@@ -68,9 +69,12 @@ Pelanggan yang setia berlangganan berdasarkan dependents/tanggungan lebih banyak
 <img width="387" height="114" alt="image" src="https://github.com/user-attachments/assets/a9a510ed-dd97-4b39-8b17-306ad2d5fd2d" />
 <img width="339" height="108" alt="image" src="https://github.com/user-attachments/assets/7cf17eef-caf8-482f-ab71-40de2a620871" />
 
+
 **Contract:**
+
 <img width="345" height="112" alt="image" src="https://github.com/user-attachments/assets/b9828f9b-3cf3-460a-a6af-658dd5bed4bf" />
 <img width="315" height="112" alt="image" src="https://github.com/user-attachments/assets/489b4743-5cfc-4ef7-8832-43e5312804a1" />
+
 
 **Payment method:**
 
