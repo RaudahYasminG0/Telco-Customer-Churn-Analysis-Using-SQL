@@ -43,7 +43,7 @@ Pelanggan yang setia berlangganan berdasarkan dependents/tanggungan lebih banyak
 <img width="363" height="114" alt="image" src="https://github.com/user-attachments/assets/ce531e30-417d-4cde-ae8d-7154ff3b6554" />
 <img width="330" height="112" alt="image" src="https://github.com/user-attachments/assets/d0f84503-c665-4a1f-a2cb-51c877deeafb" />
 
-
+Pelanggan yang setia berlangganan berdasarkan internet service lebih banyak dibanding pelanggan yang berhenti berlangganan. Hal ini menunjukkan internet service mempengaruhi minat dan kesetiaan pelanggan terhadap produk layanan.
 
 **Online security:**
 
@@ -73,7 +73,8 @@ Pelanggan yang setia berlangganan berdasarkan dependents/tanggungan lebih banyak
 **Contract:**
 
 <img width="345" height="112" alt="image" src="https://github.com/user-attachments/assets/b9828f9b-3cf3-460a-a6af-658dd5bed4bf" />
-<img width="315" height="112" alt="image" src="https://github.com/user-attachments/assets/489b4743-5cfc-4ef7-8832-43e5312804a1" />
+<img width="305" height="109" alt="image" src="https://github.com/user-attachments/assets/30de62fc-6a60-4544-90d2-c666024ffc23" />
+
 
 
 **Payment method:**
