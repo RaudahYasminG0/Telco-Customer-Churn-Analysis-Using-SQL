@@ -22,7 +22,7 @@ Dan gender tidak berperngaruh terhadap minat dan kesetiaan pelanggan terhadap pr
 <img width="350" height="89" alt="image" src="https://github.com/user-attachments/assets/dbe712f1-4db6-4c2b-ad14-fe34748ed5b5" />
 <img width="307" height="94" alt="image" src="https://github.com/user-attachments/assets/9f3c23f3-249b-4b23-8bbb-31663283cd8f" />
 
-Pelanggan yang setia berlangganan berdasarkan senior citizen lebih banyak dibanding pelanggan yang berhenti berlangganan. Senior citizen lebih sedikit yang berlangganan dibanding yang bukan senior citizen namun yang bukan senior citizen juga banyak yang berhenti berlangganan dibanding yang senior citizen. Hal  ini menunjukkan usia mempengaruhi minat dan kesetiaan pelanggan terhadap produk layanan.
+Pelanggan yang setia berlangganan berdasarkan senior citizen lebih banyak dibanding pelanggan yang berhenti berlangganan. Senior citizen lebih sedikit yang berlangganan dibanding yang bukan senior citizen namun yang bukan senior citizen juga banyak yang berhenti berlangganan dibanding yang senior citizen. Hal  ini menunjukkan usia cukup mempengaruhi minat dan kesetiaan pelanggan terhadap produk layanan.
 
 **Partner:**
 
@@ -43,7 +43,7 @@ Pelanggan yang setia berlangganan berdasarkan dependents/tanggungan lebih banyak
 <img width="363" height="114" alt="image" src="https://github.com/user-attachments/assets/ce531e30-417d-4cde-ae8d-7154ff3b6554" />
 <img width="330" height="112" alt="image" src="https://github.com/user-attachments/assets/d0f84503-c665-4a1f-a2cb-51c877deeafb" />
 
-Pelanggan yang setia berlangganan berdasarkan internet service lebih banyak dibanding pelanggan yang berhenti berlangganan. Hal ini menunjukkan internet service mempengaruhi minat dan kesetiaan pelanggan terhadap produk layanan.
+Pelanggan yang setia berlangganan berdasarkan internet service lebih banyak dibanding pelanggan yang berhenti berlangganan. Di sini pelanggan lebih banyak minat menggunakan DSL dan pengguna DSL lebih setia dalam berlangganan. Hal ini menunjukkan jenis internet service mempengaruhi minat dan kesetiaan pelanggan terhadap produk layanan.
 
 **Online security:**
 
@@ -75,12 +75,14 @@ Pelanggan yang setia berlangganan berdasarkan internet service lebih banyak diba
 <img width="345" height="112" alt="image" src="https://github.com/user-attachments/assets/b9828f9b-3cf3-460a-a6af-658dd5bed4bf" />
 <img width="305" height="109" alt="image" src="https://github.com/user-attachments/assets/30de62fc-6a60-4544-90d2-c666024ffc23" />
 
-
+Berdasarkan durasi kontrak langganan, pelanggan yang setia berlangganan lebih banyak yang memilih kontrak dengan durasi bulanan namun paling banyak pula yang berhenti. Di sini pelanggan yang memilih durasi kontrak langganan 2 tahun banyak yang setia berlangganan dan paling sedikit juga yang berhenti. Hal ini menunjukkan durasi kontrak langganan mempengaruhi minat dan kesetiaan pelanggan terhadap produk layanan.
 
 **Payment method:**
 
 <img width="403" height="138" alt="image" src="https://github.com/user-attachments/assets/3c5d6f17-5611-4d7e-923b-16341837bf14" />
 <img width="373" height="130" alt="image" src="https://github.com/user-attachments/assets/a0c222c6-f78a-42f2-8a46-8655509203c8" />
+
+Semua metode pembayaran memiliki jumlah pelanggan setia berlangganan yang hampir sama, namun pembayaran paling banyak memiliki jumlah pelanggan yang berhenti berlangganan. Hal ini menunjukkan jenis metode pembayaran sangat mempengaruhi minat dan kesetiaan pelanggan terhadap produk layanan.
 
 
 
