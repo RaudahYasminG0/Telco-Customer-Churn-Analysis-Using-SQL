@@ -32,4 +32,39 @@ Pelanggan yang setia berlangganan berdasarkan partner lebih banyak dibanding pel
 
 Pelanggan yang setia berlangganan berdasarkan dependents/tanggungan lebih banyak dibanding pelanggan yang berhenti berlangganan. Pelanggan yang tidak memiliki tanggungan lebih banyak yang berhenti berlangganan dibanding yang memiliki tanggungan. Hal ini menunjukkan tanggungan mempengaruhi minat dan kesetiaan pelanggan terhadap produk layanan.
 
+**Internet service:**
+
+<img width="363" height="114" alt="image" src="https://github.com/user-attachments/assets/ce531e30-417d-4cde-ae8d-7154ff3b6554" />
+<img width="330" height="112" alt="image" src="https://github.com/user-attachments/assets/d0f84503-c665-4a1f-a2cb-51c877deeafb" />
+
+
+
+**Online security:**
+
+<img width="378" height="111" alt="image" src="https://github.com/user-attachments/assets/bdd8036f-8eaa-4f47-8c98-436d4bd58a16" />
+<img width="323" height="113" alt="image" src="https://github.com/user-attachments/assets/4f48af7f-7eec-4ea0-9b73-18d617af629c" />
+
+
+
+**Device protection:**
+
+<img width="369" height="108" alt="image" src="https://github.com/user-attachments/assets/8865fad1-1535-4473-847b-c291f289f651" />
+<img width="331" height="113" alt="image" src="https://github.com/user-attachments/assets/67393c37-9162-4f0c-a388-882e974f416c" />
+
+
+**Streaming movies:**
+
+<img width="379" height="110" alt="image" src="https://github.com/user-attachments/assets/a9eeae88-2ffc-443f-a27f-987035380599" />
+<img width="331" height="112" alt="image" src="https://github.com/user-attachments/assets/57f793e8-43bb-4c69-a3a3-b30ed07a2f7b" />
+
+
+**Streaming tv:**
+
+<img width="387" height="114" alt="image" src="https://github.com/user-attachments/assets/a9a510ed-dd97-4b39-8b17-306ad2d5fd2d" />
+<img width="339" height="108" alt="image" src="https://github.com/user-attachments/assets/7cf17eef-caf8-482f-ab71-40de2a620871" />
+
+
+
+
+
 
