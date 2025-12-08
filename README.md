@@ -85,7 +85,13 @@ Berdasarkan durasi kontrak langganan, pelanggan yang setia berlangganan lebih ba
 
 Semua metode pembayaran memiliki jumlah pelanggan setia berlangganan yang hampir sama, namun pembayaran paling banyak memiliki jumlah pelanggan yang berhenti berlangganan. Hal ini menunjukkan jenis metode pembayaran sangat mempengaruhi minat dan kesetiaan pelanggan terhadap produk layanan.
 
+Tidak berpengaruh: gender
 
+Cukup berpengaruh: senior citizen, partner, dependents
+
+Sangat berpengaruh: internet service, contract, payment method
+
+Strategi marketing tetap harus menjangkau semua usia agar baik yang muda maupun orang tua minat dan loyal berlangganan. Memberikan penawaran menarik seperti diskon atau paket langganan dengan durasi lama namun harga tetap terjangkau agar pelanggan memiliki alasan unutk berminat berlangganan. Kemudahan dalam pembayaran juga dapat meningkatkan minat pelanggan terutama untuk usia lanjut yang tidak terlalu paham teknologi dan kemudahan dalam mengakses dan menggunakan produk layanan agar mudah dimengerti pelanggan.
 
 
 
