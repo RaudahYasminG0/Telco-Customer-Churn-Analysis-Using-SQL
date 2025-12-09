@@ -2,6 +2,9 @@
 
 _**PROFILE INISIGHT**_
 
+Statistika deskriptif
+
+<img width="360" height="132" alt="image" src="https://github.com/user-attachments/assets/175defd7-b7f3-474d-878c-0b6f5f90f496" />
 
 <img width="368" height="88" alt="image" src="https://github.com/user-attachments/assets/aaeafe70-6c1d-4436-927e-0af8d7120f8b" />
 <img width="229" height="84" alt="image" src="https://github.com/user-attachments/assets/5d3ee9c1-da8a-4088-ab18-e5406b396751" />
