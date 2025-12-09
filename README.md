@@ -91,7 +91,7 @@ Cukup berpengaruh: senior citizen, partner, dependents
 
 Sangat berpengaruh: internet service, contract, payment method
 
-Strategi marketing tetap harus menjangkau semua usia agar baik yang muda maupun orang tua minat dan loyal berlangganan. Memberikan penawaran menarik seperti diskon,paket langganan dengan durasi lama namun harga tetap terjangkau , atau internet service yang beragam daan menarik agar pelanggan memiliki alasan unutk berminat berlangganan. Kemudahan dalam pembayaran juga dapat meningkatkan minat pelanggan terutama untuk usia lanjut yang tidak terlalu paham teknologi dan kemudahan dalam mengakses dan menggunakan produk layanan agar mudah dimengerti pelanggan.
+Strategi marketing tetap harus menjangkau semua usia agar baik yang muda maupun orang tua minat dan loyal berlangganan. Memberikan penawaran menarik seperti diskon,paket langganan dengan durasi lama namun harga tetap terjangkau , atau internet service yang beragam daan menarik agar pelanggan memiliki alasan unutk berminat berlangganan. Kemudahan dalam pembayaran juga dapat meningkatkan minat pelanggan terutama untuk usia lanjut yang tidak terlalu paham teknologi dan kemudahan dalam mengakses dan mengoperasikan produk layanan agar mudah dimengerti pelanggan.
 
 
 
